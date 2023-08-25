@@ -61,7 +61,7 @@ footer.attribution {
 
 ### Desenvolvimento contínuo
 
-Foi um projeto bem simples então não tive muitas dificuldades para realizá-lo. Mas foi bem empolgante devido ser o meu primeiro desafio no Frontend Mentor. Estou ansiosa para fazer mais!
+Foi um projeto bem simples então não tive muitas dificuldades para realizá-lo. Mas foi bem empolgante por ser o meu primeiro desafio no Frontend Mentor. Estou ansiosa para fazer mais!
 
 E algo que eu quero aprender mais e continuar me refinando é no posicionamento dos elementos. É algo que eu sinto que me falta muito conhecimento ainda e que eu poderia fazer melhor.
 
