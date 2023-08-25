@@ -24,8 +24,8 @@ Essa é a solução para o [desafio do Frontend Mentor - QR code component](http
 
 ### Links
 
-- URL da solução: [](https://your-solution-url.com)
-- URL do site: [](https://your-live-site-url.com)
+- URL da solução: [https://github.com/beatrizvsgoncalves/qr-code-component-main](https://github.com/beatrizvsgoncalves/qr-code-component-main)
+- URL do site: [https://beatrizvsgoncalves.github.io/qr-code-component-main/](https://beatrizvsgoncalves.github.io/qr-code-component-main/)
 
 
 ## Meu processo
@@ -40,7 +40,6 @@ Essa é a solução para o [desafio do Frontend Mentor - QR code component](http
 ### O que eu aprendi
 
 No desenvolvimento deste projeto eu aprendi a fazer com que o footer fique sempre no final da página. 
-
 Usando **display: flex**, **flex-direction: column** e **min-height: 100vh** no conteiner. **flex: 1** no conteúdo principal e **flex-shrink: 0** no footer. 
 
 ```css
