@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+:root {
+  --backcolor: hsl(212, 45%, 89%);
+  --h1color:hsl(218, 44%, 22%);
+  --pcolor: hsl(220, 15%, 55%);
+  --linkcolor: hsl(228, 45%, 44%);
+  --white: hsl(0, 0%, 100%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: var(--backcolor); 
+  display: flex;
+  flex-direction: column;
+  font-family: 'Outfit', sans-serif;
+  font-size: 16px;
+  text-align: center;
+  min-height: 100vh;
+}
+
+main {
+  display: flex;
+  flex: 1;
+}
+
+section#container {
+  background-color: var(--white);
+  border-radius: .9rem;
+  box-shadow: 0 1px 20px rgba(0, 0, 0, 0.05);
+  margin: auto;
+  max-width: 18.7rem;
+  padding: .9rem;
+}
+
+section img {
+  border-radius: .6rem;
+  max-width: 18.3rem;
+}
+
+section#qr {
+  margin: auto;
+  max-width: fit-content;
+}
+
+section > h1 {
+  color: var(--h1color);
+  display: inline-block;
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin: .6rem 0 .3rem;
+  max-width: 18.7rem;
+  padding: .8rem;
+}
+
+section > p {
+  color: var(--pcolor);
+  display: inline-block;
+  font-size: .9rem;
+  font-weight: 400;
+  max-width: 15rem;
+  padding-bottom: 1.7rem;
+}
+
+section#text {
+  padding: 0 .6rem;
+  text-align: center;
+}
+
+footer.attribution { 
+  font-size: .7rem;
+  flex-shrink: 0;
+  padding: 1.2rem;
+}
+
+.attribution a { 
+  color: var(--linkcolor); 
+  text-decoration: none;
+}
