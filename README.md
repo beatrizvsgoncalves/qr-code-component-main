@@ -69,7 +69,7 @@ E algo que eu quero aprender mais e continuar me refinando é no posicionamento 
 ## Autora
 
 - Github - [beatrizvsgoncalves](https://github.com/beatrizvsgoncalves)
-- LinkedIn - [beatriz-vs-goncalves](www.linkedin.com/in/beatriz-vs-goncalves)
+- LinkedIn - [beatriz-vs-goncalves](https://www.linkedin.com/in/beatriz-vs-goncalves/)
 - Frontend Mentor - [@beatrizvsgoncalves](https://www.frontendmentor.io/profile/beatrizvsgoncalves)
 
 
