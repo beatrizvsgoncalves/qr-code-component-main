@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-Essa é a solução para o [Desafio do Frontend Mentor - QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação através da construção de projetos realistas.
+Essa é a solução para o [desafio do Frontend Mentor - QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação através da construção de projetos realistas.
 
 ## Tabela de conteúdos
 
