@@ -40,7 +40,7 @@ Essa é a solução para o [desafio do Frontend Mentor - QR code component](http
 ### O que eu aprendi
 
 No desenvolvimento deste projeto eu aprendi a fazer com que o footer fique sempre no final da página. 
-Usando **display: flex**, **flex-direction: column** e **min-height: 100vh** no conteiner. **flex: 1** no conteúdo principal e **flex-shrink: 0** no footer. 
+Usando **display: flex**, **flex-direction: column** e **min-height: 100vh** no conteiner, **flex: 1** no conteúdo principal e **flex-shrink: 0** no footer. 
 
 ```css
 body {
